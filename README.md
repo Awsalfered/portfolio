@@ -10,7 +10,7 @@ production specialist @ Pudinebaft Textile Industries
 
 
 ### Ptojects:
-Data analyst projject 1
+Data analyst project 1
 
 [on here](http://www.google.com)
 
@@ -18,6 +18,8 @@ Data analyst projject 1
 
 [image2](assets/img/projrct2.jpeg)
 
-projrct 3
-[text](assets/img/project3.jpeg)
+project 3
+
+![Octocat](assets/img/project3.jpeg)
+
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
