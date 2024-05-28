@@ -15,4 +15,4 @@ Data analyst projject 1
 
 [image1](assets/img/project1.png)
 
-[image2](assets/img/project2.png)
+[image2](assets/img/projrct2.jpeg)
