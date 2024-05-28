@@ -20,3 +20,4 @@ Data analyst projject 1
 
 projrct 3
 [text](assets/img/project3.jpeg)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
