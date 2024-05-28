@@ -11,8 +11,12 @@ production specialist @ Pudinebaft Textile Industries
 
 ### Ptojects:
 Data analyst projject 1
+
 [on here](http://www.google.com)
 
 [image1](assets/img/project1.png)
 
 [image2](assets/img/projrct2.jpeg)
+
+projrct 3
+(assets/img/project3.jpeg)
