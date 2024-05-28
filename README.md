@@ -19,4 +19,4 @@ Data analyst projject 1
 [image2](assets/img/projrct2.jpeg)
 
 projrct 3
-[](assets/img/project3.jpeg)
+[text](assets/img/project3.jpeg)
